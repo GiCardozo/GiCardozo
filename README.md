@@ -28,9 +28,6 @@
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-b8bfbd?style=for-the-badge&logo=microsoft-office&logoColor=0D1117&labelColor=b8bfbd)&nbsp;
 
 ### Other Knowledge:
-![C#](https://img.shields.io/badge/-cSharp-b8bfbd?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=b8bfbd)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-b8bfbd?style=for-the-badge&logo=html5&logoColor=0D1117&labelColor=b8bfbd)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-b8bfbd?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=b8bfbd)&nbsp; 
 ![MySQL](https://img.shields.io/badge/-mysql-b8bfbd?style=for-the-badge&logo=mysql&logoColor=0D1117&labelColor=b8bfbd)&nbsp;
 
 ### Studying in this moment:
