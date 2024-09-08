@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=076258&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=547a73&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Giovanna+Cardozo+Caetano;I+am+from+São+Paulo+-+SP;I+study+analysis+and+systems+development+at+FATEC;Be+Welcome!)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=547a73&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Giovanna+Cardozo+Caetano;I+am+from+São+Paulo+-+SP;I+study+Analysis+and+Systems+Development+at+FATEC;Be+Welcome!)](https://git.io/typing-svg) 
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GiCardozo&show_icons=true&count_private=true&hide_border=true&title_color=076258&icon_color=076258&text_color=547a73bg_color=b8bfbd" alt="Giovanna Cardozo Caetano github stats" /> 
